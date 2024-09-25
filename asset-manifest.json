@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TEST-REP2/static/css/main.057c7a8b.css",
+    "main.js": "/TEST-REP2/static/js/main.5a14c682.js",
+    "static/js/453.fe8063e8.chunk.js": "/TEST-REP2/static/js/453.fe8063e8.chunk.js",
+    "static/media/primenav.png": "/TEST-REP2/static/media/primenav.664a4090984e27948b1c.png",
+    "static/media/Amazon_Prime_Video_logo.svg.png": "/TEST-REP2/static/media/Amazon_Prime_Video_logo.svg.597f3119e12742cbe05d.png",
+    "static/media/profile.png": "/TEST-REP2/static/media/profile.eb5ccbacc73e94eebcd3.png",
+    "index.html": "/TEST-REP2/index.html",
+    "main.057c7a8b.css.map": "/TEST-REP2/static/css/main.057c7a8b.css.map",
+    "main.5a14c682.js.map": "/TEST-REP2/static/js/main.5a14c682.js.map",
+    "453.fe8063e8.chunk.js.map": "/TEST-REP2/static/js/453.fe8063e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057c7a8b.css",
+    "static/js/main.5a14c682.js"
+  ]
+}
